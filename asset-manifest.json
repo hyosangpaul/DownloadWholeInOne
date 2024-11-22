@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DownloadWholeInOne/static/css/main.e6c13ad2.css",
-    "main.js": "/DownloadWholeInOne/static/js/main.b4ec24e1.js",
+    "main.css": "/DownloadWholeInOne/static/css/main.90f6920e.css",
+    "main.js": "/DownloadWholeInOne/static/js/main.8964e86f.js",
     "index.html": "/DownloadWholeInOne/index.html",
-    "main.e6c13ad2.css.map": "/DownloadWholeInOne/static/css/main.e6c13ad2.css.map",
-    "main.b4ec24e1.js.map": "/DownloadWholeInOne/static/js/main.b4ec24e1.js.map"
+    "main.90f6920e.css.map": "/DownloadWholeInOne/static/css/main.90f6920e.css.map",
+    "main.8964e86f.js.map": "/DownloadWholeInOne/static/js/main.8964e86f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.b4ec24e1.js"
+    "static/css/main.90f6920e.css",
+    "static/js/main.8964e86f.js"
   ]
 }
